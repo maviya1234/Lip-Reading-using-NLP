@@ -1,1 +1,78 @@
-Real_Time_LR/venv/
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/
+
+# PyCharm Settings
+.idea/
+
+# MacOS Files
+.DS_Store
+
+# Windows Files
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Model Files
+models/*.h5
+models/*.pt
+models/*.pth
+models/*.ckpt
+
+# Dataset Files
+dataset/
+data/
+
+# Temporary Files
+temp/
+tmp/
+
+# Media Files
+*.mp4
+*.avi
+*.mov
+
+# Output Files
+output/
+results/
+
+# TensorFlow Checkpoints
+checkpoint
+*.index
+*.data-00000-of-00001
+
+# Cache
+.cache/
+
+# Coverage Reports
+.coverage
+htmlcov/
+
+# SQLite Database
+*.sqlite3
+
+# System Files
+desktop.ini
+```
