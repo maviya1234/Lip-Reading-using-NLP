@@ -181,13 +181,6 @@ pip install -r requirements.txt
 
 - Check camera permissions
 - Close other applications using webcam
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ---
 
 ## 👨‍💻 Author
